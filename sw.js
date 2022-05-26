@@ -9,7 +9,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 
 const APPSHELL = [
-    '/',
+    // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
