@@ -1,5 +1,5 @@
 
-importScripts('js/sw-utils.js');
+importScripts('/js/sw-utils.js');
 
 
 const SATATIC_CACHE = 'static-v1';
